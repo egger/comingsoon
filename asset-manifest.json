@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e200caae.chunk.css",
+    "main.js": "/static/js/main.49f5bf4a.chunk.js",
+    "main.js.map": "/static/js/main.49f5bf4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5b90ac66.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5b90ac66.js.map",
+    "static/js/2.7c74887b.chunk.js": "/static/js/2.7c74887b.chunk.js",
+    "static/js/2.7c74887b.chunk.js.map": "/static/js/2.7c74887b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7fd202c5a4f609e8140a9abbe6f2c50e.js": "/precache-manifest.7fd202c5a4f609e8140a9abbe6f2c50e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e200caae.chunk.css.map": "/static/css/main.e200caae.chunk.css.map",
+    "static/js/2.7c74887b.chunk.js.LICENSE.txt": "/static/js/2.7c74887b.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/facebook.50f13391.svg": "/static/media/facebook.50f13391.svg",
+    "static/media/github.baf48a32.svg": "/static/media/github.baf48a32.svg",
+    "static/media/twitter.a50716dd.svg": "/static/media/twitter.a50716dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b90ac66.js",
+    "static/js/2.7c74887b.chunk.js",
+    "static/css/main.e200caae.chunk.css",
+    "static/js/main.49f5bf4a.chunk.js"
+  ]
+}
